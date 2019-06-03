@@ -1,3 +1,4 @@
+#!arbol
 def manipulador(comando):
     if(comando == "arbol"):
         print(    "    /\ ")
